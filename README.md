@@ -1,2 +1,15 @@
 # 0g-elevate
-A Curated Showcase of 0G Community and Ecosystem Projects.
+A curated showcase of 0G community and ecosystem projects.
+
+## Storage SDK
+
+### 0G GO-SDK
+- **[ZgDrive](https://github.com/udhaykumarbala/zgDrive)** - A decentralized Google Drive alternative with upload and download functionality.  
+*(🏆 Winner - Devcon Developer Challenge 2024)*
+
+
+### 0G TS-SDK
+- **[Sentinel0](https://github.com/capGoblin/Sentinel0)** - A decentralized storage solution integrated with Secret Network's Decentralized Confidential Computing (DeCC) layer.  
+*(🏆 Winner - Devcon Developer Challenge 2024)*
+- **[0g-identity-vault](https://github.com/Raaghav-m/0g-identity-vault)** - Identity management where users can upload and store their personal information.
+- **[Decentral-ai-hub](https://github.com/Jovian-Dsouza/decentral-ai-hub)** - Datasets Storage Maketplace.
