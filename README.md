@@ -1,4 +1,4 @@
-# 0g-elevate
+# 0G Elevate
 A curated showcase of 0G community and ecosystem projects.
 
 ## Storage SDK
