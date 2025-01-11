@@ -29,6 +29,17 @@ A marketplace with a chat interface for AI inferences. Includes a backup option 
 
 HephAI - Decentralized AI labeling for Provenance Records [( Video )](https://www.loom.com/share/3ec002c14b1048fbaff2a3de6f7aa89b?sid=940c4a33-6246-4111-8d08-66c11718684e)
 
+## Tools
+
+- **[0g.exploreme.pro](https://0g.exploreme.pro)**  
+  <sub>Built by STAKEME</sub>  
+  A block explorer for the 0G network that allows you to inspect transactions, addresses, and various network data, and also supports both EVM and Cosmos layers for seamless on-chain activity tracking.
+
+- **[0g.faucetme.pro](https://0g.faucetme.pro)**  
+  <sub>Built by STAKEME</sub>  
+  A faucet that provides free test tokens on the 0G test network, allowing developers and users to easily test their applications.
+
+
 ## Case Studies
 🚧 Under Construction 🚧
 
