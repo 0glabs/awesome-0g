@@ -1,4 +1,4 @@
-# Awesome 0G  
+# Awesome 0G  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/0glabs/awesome-0g)
 0G (Zero Gravity) is the first decentralized AI operating system, powering a rapidly growing ecosystem of decentralized AI applications and chains. By combining the fastest, infinitely scalable data availability layer, the most affordable decentralized storage system, and a flexible framework for inferences and finetuning, 0G enables resource-intensive AI applications to run on-chain with unparalleled performance and efficiency
 
 ## dAI Open-Source Applications
