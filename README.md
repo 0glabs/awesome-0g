@@ -9,32 +9,20 @@
 - [dAI Open-Source Applications](#dai-open-source-applications)
 - [Partner and Ecosystem](#partner-and-ecosystem)
 - [Case Studies](#case-studies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## dAI Open-Source Applications
 
-- [ZgDrive](https://github.com/udhaykumarbala/zgDrive) - A decentralized Google Drive alternative with upload and download functionality.  
-  <sub>Built with 0G Storage Client (Golang)</sub>  
-  *(🏆 Winner - Devcon Developer Challenge 2024)*
+- [ZgDrive](https://github.com/udhaykumarbala/zgDrive) - A decentralized Google Drive alternative with upload and download functionality. Built with 0G Storage Client (Golang). Winner - Devcon Developer Challenge 2024.
 
-- [Sentinel0](https://github.com/capGoblin/Sentinel0) - A decentralized storage solution integrated with Secret Network's Decentralized Confidential Computing (DeCC) layer.  
-  <sub>Built with 0G TS-SDK</sub>  
-  *(🏆 Winner - Devcon Developer Challenge 2024)*
+- [Sentinel0](https://github.com/capGoblin/Sentinel0) - A decentralized storage solution integrated with Secret Network's Decentralized Confidential Computing (DeCC) layer. Built with 0G TS-SDK. Winner - Devcon Developer Challenge 2024.
 
-- [0g-identity-vault](https://github.com/Raaghav-m/0g-identity-vault) - Identity management where users can upload and store their personal information.  
-  <sub>Built with 0G TS-SDK</sub>
+- [0g-identity-vault](https://github.com/Raaghav-m/0g-identity-vault) - Identity management where users can upload and store their personal information. Built with 0G TS-SDK.
 
-- [Decentral-ai-hub](https://github.com/Jovian-Dsouza/decentral-ai-hub) - Datasets Storage Marketplace.  
-  <sub>Built with 0G TS-SDK</sub>
+- [Decentral-ai-hub](https://github.com/Jovian-Dsouza/decentral-ai-hub) - Datasets Storage Marketplace. Built with 0G TS-SDK.
 
-- [EchoX](https://dorahacks.io/buidl/20733) - Cross-Chain dAI Agent Trading Aggregator.  
-  <sub>Built with 0G Serving SDK</sub>  
-  Performs swaps between chains with natural language input using a llama model. Extracts key data (sell chain, buy chain, amount) from the AI prompt output and executes the swap.
+- [EchoX](https://dorahacks.io/buidl/20733) - Cross-Chain dAI Agent Trading Aggregator. Built with 0G Serving SDK. Performs swaps between chains with natural language input using a llama model.
 
-- [DeCentraChat](https://dorahacks.io/buidl/20714) - AI Inference Marketplace with Chat UI.  
-  <sub>Built with 0G Serving SDK</sub>  
-  A marketplace with a chat interface for AI inferences. Includes a backup option to store chat history securely using 0G Storage.
+- [DeCentraChat](https://dorahacks.io/buidl/20714) - AI Inference Marketplace with Chat UI. Built with 0G Serving SDK. A marketplace with a chat interface for AI inferences.
 
 ## Partner and Ecosystem
 
@@ -48,8 +36,7 @@
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this list.
 
-## License
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
