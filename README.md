@@ -24,6 +24,16 @@
 
 - [DeCentraChat](https://dorahacks.io/buidl/20714) - AI Inference Marketplace with Chat UI. Built with 0G Serving SDK. A marketplace with a chat interface for AI inferences.
 
+- [Care-AI](https://github.com/lovish888/care-ai) - Decentralized AI-powered support agent SDK for businesses. Built with 0G Storage. Winner - ETHGlobal Trifecta 2025.
+
+- [Battle AI](https://github.com/Bhavik-punmiya/ethglobal-trifeacta) - Battle AI models in a decentralized, trustless arena—where privacy meets competition! Built with 0G Storage. Winner - ETHGlobal Trifecta 2025.
+
+- [Clampify.fun](https://github.com/vmmuthu31/Clampify.fun) - Rugproof meme tokens using TEE-secured launches, gasless flow & smart safeguards. Built with 0G Storage. Winner - ETHGlobal Trifecta 2025.
+
+- [abroOS](https://github.com/sagarjethi/abroOS) - An interactive, web-based desktop operating system environment built with TEE and AI agent. Built with 0G Storage.
+
+- [OGxbt](https://github.com/chain-l/trifecta) - Verifies crypto signals with AI analytics and on-chain proof using the 0G Network stack. Built with 0G Compute. Winner - ETHGlobal Trifecta 2025.
+
 ## Partner and Ecosystem
 
 - [HephAI](https://www.loom.com/share/3ec002c14b1048fbaff2a3de6f7aa89b?sid=940c4a33-6246-4111-8d08-66c11718684e) - Decentralized AI labeling for Provenance Records.
