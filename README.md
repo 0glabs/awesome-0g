@@ -34,15 +34,15 @@
 
 - [OGxbt](https://github.com/chain-l/trifecta) - Verifies crypto signals with AI analytics and on-chain proof using the 0G Network stack. Built with 0G Compute. Winner - ETHGlobal Trifecta 2025.
 
-- [0GChat](https://github.com/0Gchat/0GChat) - Decentralized Workplace Communication Platform. Built with 0G. Winner - TinTinLand AI Agent Hackathon.
+- [0GChat](https://github.com/0Gchat/0GChat) - Decentralized Workplace Communication Platform. Winner - TinTinLand AI Agent Hackathon.
 
-- [Swimming Coach](https://github.com/jjqk/eliza/tree/develop) - AI-powered swimming coach agent using 0G eliza plugin for file upload. Built with 0G. Winner - TinTinLand AI Agent Hackathon.
+- [Swimming Coach](https://github.com/jjqk/eliza/tree/develop) - AI-powered swimming coach agent using 0G eliza plugin for file upload. Winner - TinTinLand AI Agent Hackathon.
 
-- [LinguaBridge](https://github.com/redstone-network/LinguaBridge) - Decentralized translation enhancement system combining ElizaOS multi-agent framework with 0G blockchain protocol. Built with 0G. Winner - TinTinLand AI Agent Hackathon.
+- [LinguaBridge](https://github.com/redstone-network/LinguaBridge) - Decentralized translation enhancement system combining ElizaOS multi-agent framework with 0G blockchain protocol.  Winner - TinTinLand AI Agent Hackathon.
 
-- [AnyCreative](https://github.com/aiqubits/any-creative) - AI Agent-driven Telegram bot providing interaction with the 0G network on Phala-cloud's TEE environment. Built with 0G. Winner - TinTinLand AI Agent Hackathon.
+- [AnyCreative](https://github.com/aiqubits/any-creative) - AI Agent-driven Telegram bot providing interaction with the 0G network on Phala-cloud's TEE environment. Winner - TinTinLand AI Agent Hackathon.
 
-- [0G Gateway](https://github.com/longcipher/0g-gateway) - OpenAI compatible API gateway connecting 0G Serving Broker. Built with 0G.
+- [0G Gateway](https://github.com/longcipher/0g-gateway) - OpenAI compatible API gateway connecting 0G Serving Broker. Winner - TinTinLand AI Agent Hackathon.
 
 ## Partner and Ecosystem
 
