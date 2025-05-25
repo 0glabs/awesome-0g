@@ -48,9 +48,17 @@
 
 - [HephAI](https://www.loom.com/share/3ec002c14b1048fbaff2a3de6f7aa89b?sid=940c4a33-6246-4111-8d08-66c11718684e) - Decentralized AI labeling for Provenance Records.
 
-## Case Studies
+### Technical Blogs
 
-🚧 Under Construction 🚧
+- [Introducing 0G’s V3 Testnet: Galileo](https://0g.ai/blog/introducing-v3-testnet-galileo)
+- [Forging the Future of Onchain AI: 0G’s Latest Hackathon Highlights](https://0g.ai/blog/0g-latest-hackathon-highlights)
+- [Revolutionizing AI Fine-Tuning with the 0G Compute Network](https://0g.ai/blog/ai-fine-tuning-with-0g-compute)
+- [Introducing 0G’s V3 Testnet: Galileo](https://0g.ai/blog/introducing-v3-testnet-galileo)
+- [True AI Ownership vs API Access: Returning Power to the Builders](https://0g.ai/blog/ai-ownership-vs-api-access)
+- [AI Evolution: How Intelligent Agents Will Learn, Adapt, and Compete in Web3](https://0g.ai/blog/how-ai-will-adapt-in-web3)
+- [Building Decentralized AI? Here’s Why 0G Should Be Part of Your Stack](https://0g.ai/blog/partial-0g-deployment)
+- [Guild on 0G: A New Frontier for Decentralized AI Builders](https://0g.ai/blog/guild-on-0g)
+- [Navigating 0G’s Tech: An Update On The Latest in 0G’s Products](https://0g.ai/blog/navigating-0g-s-tech-an-update-on-the-latest-in-0g-s-products)
 
 ## Contributing
 
