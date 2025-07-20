@@ -7,7 +7,6 @@
 ## Contents
 
 - [dAI Open-Source Applications](#dai-open-source-applications)
-- [ETHGlobal Cannes 2025 Projects](#ethglobal-cannes-2025-projects)
 - [Partner and Ecosystem](#partner-and-ecosystem)
 - [Case Studies](#case-studies)
 
