@@ -7,6 +7,7 @@
 ## Contents
 
 - [dAI Open-Source Applications](#dai-open-source-applications)
+- [ETHGlobal Cannes 2025 Projects](#ethglobal-cannes-2025-projects)
 - [Partner and Ecosystem](#partner-and-ecosystem)
 - [Case Studies](#case-studies)
 
@@ -43,6 +44,30 @@
 - [AnyCreative](https://github.com/aiqubits/any-creative) - AI Agent-driven Telegram bot providing interaction with the 0G network on Phala-cloud's TEE environment. Winner - TinTinLand AI Agent Hackathon.
 
 - [0G Gateway](https://github.com/longcipher/0g-gateway) - OpenAI compatible API gateway connecting 0G Serving Broker. Winner - TinTinLand AI Agent Hackathon.
+
+- [AInfluencer](https://github.com/QualiPe/ai-influencer) - Autonomous on-chain AI-Influencer that creates and uploads YouTube videos based on subscribers' wishes. All prompt generation routed through 0G Compute; leverages zk-proof-backed results for transparency and trust. Winner - ETHGlobal Cannes 2025.
+
+- [PrivyCycle](https://github.com/PrivyCycle/dapp) - Decentralized period tracker with user-owned data, private sharing, and AI-driven insights. Provides doctor and partner recommendations based on 0G compute. Winner - ETHGlobal Cannes 2025.
+
+- [Warriors AI-rena](https://github.com/yug49/WarriorsAI-rena) - Blockchain-based battle arena game. 0G Compute for battle decisions, 0G Storage for decentralized metadata storage. Implemented a basic version of iNFT. Winner - ETHGlobal Cannes 2025.
+
+- [Solidity Cell](https://github.com/Riki0923/SolidityCell) - Escape room meets Solidity—players solve puzzles using Hardhat, subgraphs, and 0G AI. 0G provides in-game assistance for players struggling with puzzles.
+
+- [Braivo](https://github.com/toukoum/braivo) - Decentralized image storage, leveraging 0G Storage. Utilizes 0G storage protocol for secure and verifiable image storage.
+
+- [Negravis](https://github.com/Drehalas/Negravis) - AI-native oracle using three agents to verify and deliver real-world data to smart contracts. Built with 0G Compute TypeScript SDK Starter Kit; LLM agents for data verification.
+
+- [Block Survivor](https://github.com/npanium/block-survivor-api) - Top-down 2D bullet hell survival game based on blockchain development experience. Uses 0G Compute Network for real-time, adaptive AI inference to adjust game difficulty based on player behavior.
+
+- [SparkMind](https://github.com/franconicola/ethcannes) - AI tutors for kids with verifiable data using Zero Gravity. Verifiable database for AI tutor interactions.
+
+- [FairBnb](https://github.com/aloksahay/fairbnb) - Decentralized app for verified property listings using zkProofs of ownership. Uses ZeroG for both storage and compute; ownership verification LLAMA models.
+
+- [TrueCast](https://github.com/moabid42/TrueCast) - Decentralized AI news platform with fact verification via code, community votes, and whistleblowers. Uses 0G compute SDK and deepseek AI for fact-checking and scoring articles.
+
+- [ContractObituarie](https://github.com/ErankiAditya8072/contract-obituarie) - Analyzes smart contracts using 0G Compute and provides a user-friendly UI. 0G compute analyzes contract status; descriptions stored on 0G Storage.
+
+- [Context Passport](https://github.com/samuelzey/ethglobalcannes) - Digital passport for context portability across AI apps. Full stack on 0G—iNFT minting, smart contracts, oracles, and persona storage.
 
 ## Partner and Ecosystem
 
